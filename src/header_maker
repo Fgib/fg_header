@@ -1,0 +1,4 @@
+#!/bin/bash
+rg -NU '^.*\n\{' --heading > $HOME/temporary_file_who_will_be_deleted_for_the_yeet
+unknown_printer_for_the_yeet $HOME/temporary_file_who_will_be_deleted_for_the_yeet > your.h
+rm $HOME/temporary_file_who_will_be_deleted_for_the_yeet
